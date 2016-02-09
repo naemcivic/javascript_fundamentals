@@ -70,5 +70,5 @@ console.log("The circumference is " + Math.PI * (radius * 2));
 tempInC = 21
 tempInF = 74
 
-console.log(tempInC + 'C is ' + ((tempInC * 1.8 )+ 32) + 'F');
+console.log(tempInC + 'C is ' + ((tempInC * 1.8 )+ 32 + 'F'));
 console.log(tempInF + 'F is ' + (tempInF - 32) * ( 5  / 9 ) + 'C' );
